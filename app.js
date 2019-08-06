@@ -36,7 +36,7 @@ mongoose.connect(url, {
 // });
 
 //        PUBLIC DATABASE
-// mongoose.connect("mongodb+srv://MosDev:Ross11211@cluster0-leeqi.mongodb.net/test?retryWrites=true&w=majority", {
+// mongoose.connect("mongodb+srv://MosDev:DATABASEURL@cluster0-leeqi.mongodb.net/test?retryWrites=true&w=majority", {
 // 	useNewUrlParser: true,
 // 	useCreateIndex: true
 // }).then(() => {
