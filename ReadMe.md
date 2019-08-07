@@ -31,4 +31,13 @@
     * Profile Image/Avator.
 	* Email address.
 	* Link to all Campgroundr he created.
+
+# Flashes
+
+* Flashe's When - 
+	* Logged in.
+	* Logged out.
+	* Modifyng.
+	* Error Massages
+
 	
